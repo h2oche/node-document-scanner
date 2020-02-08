@@ -1,0 +1,15 @@
+{
+  "name": "document-scanner",
+  "version": "1.0.0",
+  "description": "ls",
+  "main": "index.js",
+  "dependencies": {
+    "opencv4nodejs": "^5.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
